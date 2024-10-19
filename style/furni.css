@@ -52,7 +52,7 @@ ul li a:hover{
 
 }
 .main{
-    background-image: url("main_bg.jpg");
+    background-image: url("../Images/main_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
